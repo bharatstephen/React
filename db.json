@@ -1,14 +1,45 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "bhar"
-  }
+  "malayalammovies":[
+    {
+      "Movie": "Uyare",
+      "AvaliableSeats": 10,
+      "ImageSrc": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQhelRzFp52ONVIM6HldxBElWXOBpVm-Lu9_3sDWaUI8NyOVF86"
+    },
+    {
+      "Movie": "Lucifer",
+      "AvaliableSeats": 10,
+      "ImageSrc": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRVJ-d-bB-Xhw4nPI8GLe7ERhg5Sf-_FnFw1Zbgp8hTXDwtiMC1"
+
+    },
+    {
+      "Movie": "Anjan Pathiraa",
+      "AvaliableSeats": 10,
+      "ImageSrc": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR2q1ty496gXg2xwisj8JDQ35ONRmcY2M5ImR_zfw1fh6YWiUSs"
+    },
+    {
+      "Movie": "Odiyan",
+      "AvaliableSeats": 10,
+      "ImageSrc": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTjsuDogPS_S0PwsE_sGalymVbR3iX03SgbenW5FMPmjS6TTbLY"
+    },
+    {
+      "Movie": "Kumbalangi Nights",
+      "AvaliableSeats": 10,
+      "ImageSrc": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTpxrnzA_cQ1IggbWlb9GVtOwEYJFSsq4LtBv0fjCxnlzdihlrq"
+    },
+    {
+      "Movie": "Virus",
+      "AvaliableSeats": 10,
+      "ImageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP99_cit1lPNIxVdf_j3jlZnIz6uh3TNObjO0x2aae17ova8to"
+    },
+    {
+      "Movie": "Shylock",
+      "AvaliableSeats": 10,
+       "ImageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOCmqX_e1pC05vyT5OETCTlw6FcnKwbED3yB4PBUs4nrJ9gfAG"
+    },
+    {
+      "Movie": "Helen",
+      "AvaliableSeats": 10,
+      "ImageSrc": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQyMMIpkm9Iw7Br-MMqtLuHb2Nm4qzESRA_lq3YFnE8OAkg0Zci"
+    }
+  ]
 }
